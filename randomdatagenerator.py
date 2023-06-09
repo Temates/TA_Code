@@ -3,8 +3,8 @@ import random
 import time
 import json
 # Define the room size
-ROOM_WIDTH = 7.0
-ROOM_HEIGHT = 7.0
+ROOM_WIDTH = 4.0
+ROOM_HEIGHT = 4.0
 
 # Define the initial position of the person
 x = random.uniform(0, ROOM_WIDTH)
